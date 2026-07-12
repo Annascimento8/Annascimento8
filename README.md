@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Anna Beatriz
+# Anna Beatriz
 
 **`Desenvolvedora Full Stack • Engenharia de Software`**
 
@@ -21,7 +21,7 @@ Tenho 20 anos e sou estudante de Engenharia de Software, com grande interesse em
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="left">
   <img alt="HTML" title="HTML" width="40px" style="padding-right: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
