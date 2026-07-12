@@ -38,12 +38,3 @@ Tenho 20 anos e sou estudante de Engenharia de Software, com grande interesse em
 
 </p>
 
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img alt="GitHub Stats" height="190" src="https://github-readme-stats.vercel.app/api?username=Annascimento8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub%20de%20Anna%20Beatriz" />
-  &nbsp;&nbsp;&nbsp;
-  <img alt="Top Langs" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annascimento8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
